@@ -17,19 +17,19 @@ public class Kegelstumpf {
     }
 
     public double getMantellinie(){
-
+        return Math.sqrt(Math.pow(m_Grundkreis.getRadius() - m_Deckkreis.getRadius(), 2) + m_Hoehe);
     }
 
-    public double getMantelflaeche(){
-
+    public double getMatelflaeche(){
+        return ((m_Grundkreis.getRadius() + m_Deckkreis.getRadius()) * Math.PI * getMantellinie());
     }
 
     public double getOberflaeche(){
-
+        return (Math.PI * Math.pow(m_Deckkreis.getRadius(), 2));
     }
 
     public double getVolumen(){
-
+        return (((this.m_Hoehe * Math.PI)/3) * (Math.pow(m_Grundkreis.getRadius(), 2) + m_Grundkreis.getRadius() * m_Deckkreis.getRadius() + Math.pow(m_Deckkreis.getRadius(), 2)));
     }
 
     public void setHoehe(double m_Hoehe){

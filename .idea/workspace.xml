@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb896121-d60d-45b9-a08e-a3bbf022a0f4" name="Changes" comment="added classes">
+    <list default="true" id="eb896121-d60d-45b9-a08e-a3bbf022a0f4" name="Changes" comment="finished Kreis class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Kreis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kreis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <updated>1669361062671</updated>
       <workItem from="1669361064461" duration="845000" />
       <workItem from="1669361952526" duration="675000" />
-      <workItem from="1669362661567" duration="888000" />
+      <workItem from="1669362661567" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="added classes">
       <created>1669361776766</created>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669361776766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished Kreis class">
+      <created>1669363601537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669363601537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added classes" />
+    <MESSAGE value="finished Kreis class" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished Kreis class" />
   </component>
 </project>
