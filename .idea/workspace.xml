@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb896121-d60d-45b9-a08e-a3bbf022a0f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Main.java" afterDir="false" />
+    <list default="true" id="eb896121-d60d-45b9-a08e-a3bbf022a0f4" name="Changes" comment="added classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Kreis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kreis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "discord-project"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,8 +54,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669361062671</updated>
-      <workItem from="1669361064461" duration="526000" />
+      <workItem from="1669361064461" duration="845000" />
+      <workItem from="1669361952526" duration="675000" />
+      <workItem from="1669362661567" duration="888000" />
     </task>
+    <task id="LOCAL-00001" summary="added classes">
+      <created>1669361776766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669361776766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added classes" />
   </component>
 </project>
