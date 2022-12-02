@@ -12,6 +12,6 @@ public class Main {
         System.out.println("Oberflaeche= " + f2.getOberflaeche());
         System.out.println("Mantelflaeche= " + f2.getMatelflaeche());
         System.out.println("Mantellinie= " + f2.getMantellinie());
-        System.out.println("Volumen= }" + f2.getVolumen());
+        System.out.println("Volumen= " + f2.getVolumen());
     }
 }
