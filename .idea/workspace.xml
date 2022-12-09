@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb896121-d60d-45b9-a08e-a3bbf022a0f4" name="Changes" comment="Added class diagram">
-      <change afterPath="$PROJECT_DIR$/src/test/java/me/devgrill/KreisTest.java" afterDir="false" />
+    <list default="true" id="eb896121-d60d-45b9-a08e-a3bbf022a0f4" name="Changes" comment="Started writing tests for Kreis.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block06.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Kreis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kreis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +68,7 @@
       <workItem from="1669361064461" duration="845000" />
       <workItem from="1669361952526" duration="675000" />
       <workItem from="1669362661567" duration="4322000" />
-      <workItem from="1670569879151" duration="3437000" />
+      <workItem from="1670569879151" duration="4659000" />
     </task>
     <task id="LOCAL-00001" summary="added classes">
       <created>1669361776766</created>
@@ -107,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669969705749</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Started writing tests for Kreis.java">
+      <created>1670573349513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670573349513</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +135,7 @@
     <MESSAGE value="finished Kegelstumpf class" />
     <MESSAGE value="changes in output" />
     <MESSAGE value="Added class diagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added class diagram" />
+    <MESSAGE value="Started writing tests for Kreis.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started writing tests for Kreis.java" />
   </component>
 </project>
