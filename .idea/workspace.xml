@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb896121-d60d-45b9-a08e-a3bbf022a0f4" name="Changes" comment="finished Kreis class">
+    <list default="true" id="eb896121-d60d-45b9-a08e-a3bbf022a0f4" name="Changes" comment="Added class diagram">
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/devgrill/KreisTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kegelstumpf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block06.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/devgrill/Kreis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/devgrill/Kreis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -39,6 +42,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +51,14 @@
     "settings.editor.selected.configurable": "discord-project"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="me.devgrill" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +69,8 @@
       <updated>1669361062671</updated>
       <workItem from="1669361064461" duration="845000" />
       <workItem from="1669361952526" duration="675000" />
-      <workItem from="1669362661567" duration="1986000" />
+      <workItem from="1669362661567" duration="4322000" />
+      <workItem from="1670569879151" duration="3437000" />
     </task>
     <task id="LOCAL-00001" summary="added classes">
       <created>1669361776766</created>
@@ -72,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669363601537</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished Kegelstumpf class">
+      <created>1669364676146</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669364676146</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes in output">
+      <created>1669966336231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669966336231</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added class diagram">
+      <created>1669969705749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669969705749</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +127,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added classes" />
     <MESSAGE value="finished Kreis class" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Kreis class" />
+    <MESSAGE value="finished Kegelstumpf class" />
+    <MESSAGE value="changes in output" />
+    <MESSAGE value="Added class diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added class diagram" />
   </component>
 </project>

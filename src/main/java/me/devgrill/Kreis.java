@@ -16,7 +16,7 @@ public class Kreis {
     }
 
     public double getFlaeche(){
-        double m_Flaeche = this.m_Durchmesser * Math.pow(getRadius(), 2) * Math.PI;
+        double m_Flaeche = Math.pow(getRadius(), 2) * Math.PI;
         return m_Flaeche;
     }
 
